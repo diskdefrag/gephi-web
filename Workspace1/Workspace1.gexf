@@ -1,0 +1,3252 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2023-08-04">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" timeformat="double" timerepresentation="interval" timezone="UTC" mode="dynamic">
+    <attributes class="node" mode="static">
+      <attribute id="gender" title="gender" type="string"/>
+      <attribute id="start year" title="start year" type="integer"/>
+      <attribute id="end year" title="end year" type="integer"/>
+      <attribute id="degree" title="Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="harmonicclosnesscentrality" title="Harmonic Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="year" title="year" type="integer"/>
+    </attributes>
+    <nodes>
+      <node id="박정우" label="박정우" start="2002.0" end="2011.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2011"/>
+          <attvalue for="degree" value="7"/>
+          <attvalue for="eccentricity" value="11.0"/>
+          <attvalue for="closnesscentrality" value="0.1917989417989418"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2454662387421007"/>
+          <attvalue for="betweenesscentrality" value="1885.9544122544119"/>
+        </attvalues>
+        <viz:size value="68.333336"/>
+        <viz:position x="221.26105" y="809.66174"/>
+        <viz:color r="134" g="76" b="157"/>
+      </node>
+      <node id="김남길" label="김남길" start="2007.0" end="2011.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2007"/>
+          <attvalue for="end year" value="2011"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.18261964735516373"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.22747698661491775"/>
+          <attvalue for="betweenesscentrality" value="528.5186147186149"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="334.83997" y="631.0767"/>
+        <viz:color r="195" g="205" b="228"/>
+      </node>
+      <node id="여지" label="여지" start="2011.0" end="2011.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2011"/>
+          <attvalue for="end year" value="2011"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.16111111111111112"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.18785465492362044"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="267.3066" y="890.03894"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="김영애" label="김영애" start="2005.0" end="2011.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2005"/>
+          <attvalue for="end year" value="2011"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.20480225988700565"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.24002736726874646"/>
+          <attvalue for="betweenesscentrality" value="1263.8578754578764"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="23.215403" y="553.0472"/>
+        <viz:color r="139" g="145" b="195"/>
+      </node>
+      <node id="조의석" label="조의석" start="2007.0" end="2011.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2007"/>
+          <attvalue for="end year" value="2011"/>
+          <attvalue for="degree" value="10"/>
+          <attvalue for="eccentricity" value="9.0"/>
+          <attvalue for="closnesscentrality" value="0.2196969696969697"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2941598248494805"/>
+          <attvalue for="betweenesscentrality" value="1839.1861749361733"/>
+        </attvalues>
+        <viz:size value="100.0"/>
+        <viz:position x="-280.78098" y="-221.59836"/>
+        <viz:color r="134" g="82" b="160"/>
+      </node>
+      <node id="김우빈" label="김우빈" start="2011.0" end="2011.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2011"/>
+          <attvalue for="end year" value="2011"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.18034825870646767"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2147427476737823"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-320.05466" y="-330.2508"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="강동원" label="강동원" start="2009.0" end="2011.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2011"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.21577380952380953"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2668746579091405"/>
+          <attvalue for="betweenesscentrality" value="938.2715340215341"/>
+        </attvalues>
+        <viz:size value="26.11111"/>
+        <viz:position x="-16.687876" y="-175.63683"/>
+        <viz:color r="162" g="172" b="210"/>
+      </node>
+      <node id="이병헌" label="이병헌" start="2001.0" end="2011.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2001"/>
+          <attvalue for="end year" value="2011"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.20480225988700565"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2561521620142309"/>
+          <attvalue for="betweenesscentrality" value="778.6864468864471"/>
+        </attvalues>
+        <viz:size value="26.11111"/>
+        <viz:position x="-445.84808" y="-258.4875"/>
+        <viz:color r="175" g="185" b="217"/>
+      </node>
+      <node id="엄지원" label="엄지원" start="2011.0" end="2011.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2011"/>
+          <attvalue for="end year" value="2011"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.18034825870646767"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2147427476737823"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-407.6534" y="-192.25803"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="오달수" label="오달수" start="2003.0" end="2011.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2003"/>
+          <attvalue for="end year" value="2011"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.23311897106109325"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.29813902572523265"/>
+          <attvalue for="betweenesscentrality" value="2446.7860417360403"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="-121.238556" y="-85.54613"/>
+        <viz:color r="129" g="15" b="124"/>
+      </node>
+      <node id="김성훈" label="김성훈" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="9.0"/>
+          <attvalue for="closnesscentrality" value="0.20893371757925072"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.26044882320744395"/>
+          <attvalue for="betweenesscentrality" value="787.1239205239203"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="127.73033" y="-126.66005"/>
+        <viz:color r="174" g="184" b="216"/>
+      </node>
+      <node id="하정우" label="하정우" start="2002.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.20538243626062322"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.257687465790914"/>
+          <attvalue for="betweenesscentrality" value="1090.4598512598507"/>
+        </attvalues>
+        <viz:size value="36.666668"/>
+        <viz:position x="256.66302" y="-68.63461"/>
+        <viz:color r="150" g="160" b="203"/>
+      </node>
+      <node id="배두나" label="배두나" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.1730310262529833"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.19957854406130282"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="231.10992" y="-139.02324"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="남지현" label="남지현" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.1730310262529833"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.19957854406130282"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="199.48631" y="-173.78992"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="조현철" label="조현철" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.1730310262529833"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.19957854406130282"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="162.93161" y="-208.91194"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="김지운" label="김지운" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="9.0"/>
+          <attvalue for="closnesscentrality" value="0.2030812324929972"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2560837438423646"/>
+          <attvalue for="betweenesscentrality" value="1570.7494449994442"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="-441.17468" y="-99.881744"/>
+        <viz:color r="136" g="111" b="176"/>
+      </node>
+      <node id="공유" label="공유" start="2009.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.18079800498753118"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.21882594417077186"/>
+          <attvalue for="betweenesscentrality" value="867.1921356421358"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="-196.51128" y="-401.25076"/>
+        <viz:color r="168" g="178" b="213"/>
+      </node>
+      <node id="송강호" label="송강호" start="2004.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2004"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="eccentricity" value="8.0"/>
+          <attvalue for="closnesscentrality" value="0.21323529411764705"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2647454844006568"/>
+          <attvalue for="betweenesscentrality" value="1796.370415695416"/>
+        </attvalues>
+        <viz:size value="36.666668"/>
+        <viz:position x="-417.93668" y="217.82928"/>
+        <viz:color r="134" g="86" b="163"/>
+      </node>
+      <node id="한지민" label="한지민" start="2009.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.17099056603773585"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.20804597701149433"/>
+          <attvalue for="betweenesscentrality" value="297.6190476190475"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="-635.2316" y="24.133448"/>
+        <viz:color r="213" g="224" b="238"/>
+      </node>
+      <node id="엄태구" label="엄태구" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.168997668997669"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.19655172413793104"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-534.48376" y="-71.16057"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="나홍진" label="나홍진" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="11.0"/>
+          <attvalue for="closnesscentrality" value="0.19230769230769232"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.24082201323580626"/>
+          <attvalue for="betweenesscentrality" value="519.3911255411257"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="50.00679" y="295.716"/>
+        <viz:color r="195" g="206" b="228" a="0.99607843"/>
+      </node>
+      <node id="황정민" label="황정민" start="2002.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.2251552795031056"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.28538040503557754"/>
+          <attvalue for="betweenesscentrality" value="2298.684731934731"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="103.402504" y="167.37532"/>
+        <viz:color r="130" g="31" b="132"/>
+      </node>
+      <node id="천우희" label="천우희" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.16146993318485522"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.18711026521371354"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="45.80925" y="396.24704"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="곽도원" label="곽도원" start="2005.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2005"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.20027624309392264"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2344608648056923"/>
+          <attvalue for="betweenesscentrality" value="226.25779220779202"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="-54.893215" y="279.02753"/>
+        <viz:color r="219" g="229" b="241"/>
+      </node>
+      <node id="쿠니무라준" label="쿠니무라준" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.16146993318485522"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.18711026521371354"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="101.52618" y="361.64304"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="장소연" label="장소연" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.16146993318485522"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.18711026521371354"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="147.4515" y="326.31143"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="이계벽" label="이계벽" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="13.0"/>
+          <attvalue for="closnesscentrality" value="0.151673640167364"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.19826148946838576"/>
+          <attvalue for="betweenesscentrality" value="570.0"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="544.4446" y="736.9852"/>
+        <viz:color r="191" g="202" b="226" a="0.99607843"/>
+      </node>
+      <node id="유해진" label="유해진" start="2007.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2007"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.17682926829268292"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2296855252027667"/>
+          <attvalue for="betweenesscentrality" value="921.0770063270058"/>
+        </attvalues>
+        <viz:size value="26.11111"/>
+        <viz:position x="418.90186" y="595.545"/>
+        <viz:color r="163" g="174" b="211"/>
+      </node>
+      <node id="이준" label="이준" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="14.0"/>
+          <attvalue for="closnesscentrality" value="0.1318181818181818"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.157692767003112"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="619.43756" y="775.2495"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="조윤희" label="조윤희" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="14.0"/>
+          <attvalue for="closnesscentrality" value="0.1318181818181818"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.157692767003112"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="584.68243" y="810.36444"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="이동휘" label="이동휘" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="14.0"/>
+          <attvalue for="closnesscentrality" value="0.1318181818181818"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.157692767003112"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="529.6432" y="845.71063"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="전혜빈" label="전혜빈" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="14.0"/>
+          <attvalue for="closnesscentrality" value="0.1318181818181818"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.157692767003112"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="653.1715" y="740.3094"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="이재한" label="이재한" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="11.0"/>
+          <attvalue for="closnesscentrality" value="0.18079800498753118"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.22874309598447504"/>
+          <attvalue for="betweenesscentrality" value="674.3521395271393"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="-505.93628" y="67.708626"/>
+        <viz:color r="183" g="193" b="221"/>
+      </node>
+      <node id="리암니슨" label="리암니슨" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.15327695560253699"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.17906727372244607"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-613.9796" y="100.70719"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="이정재" label="이정재" start="2001.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2001"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.20714285714285716"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.26039956212369997"/>
+          <attvalue for="betweenesscentrality" value="1485.9684149184152"/>
+        </attvalues>
+        <viz:size value="36.666668"/>
+        <viz:position x="-303.3551" y="191.69286"/>
+        <viz:color r="137" g="121" b="182"/>
+      </node>
+      <node id="이범수" label="이범수" start="2009.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.1636568848758465"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.20306563168632136"/>
+          <attvalue for="betweenesscentrality" value="246.96880619380616"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="-627.8678" y="-92.29271"/>
+        <viz:color r="217" g="228" b="240"/>
+      </node>
+      <node id="진세연" label="진세연" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.15327695560253699"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.17906727372244607"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-565.0997" y="135.31194"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="정준호" label="정준호" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.15327695560253699"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.17906727372244607"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-604.45526" y="60.280125"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="허진호" label="허진호" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="13.0"/>
+          <attvalue for="closnesscentrality" value="0.14887063655030802"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.1911022119642807"/>
+          <attvalue for="betweenesscentrality" value="570.0"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="796.8265" y="502.2429"/>
+        <viz:color r="191" g="202" b="226" a="0.99607843"/>
+      </node>
+      <node id="손예진" label="손예진" start="2007.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2007"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.1730310262529833"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.21554759416828387"/>
+          <attvalue for="betweenesscentrality" value="700.0"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="625.7845" y="467.4685"/>
+        <viz:color r="181" g="191" b="220"/>
+      </node>
+      <node id="박해일" label="박해일" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="14.0"/>
+          <attvalue for="closnesscentrality" value="0.129695885509839"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.1532182185630463"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="880.6153" y="537.9115"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="김소현" label="김소현" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="14.0"/>
+          <attvalue for="closnesscentrality" value="0.129695885509839"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.1532182185630463"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="886.74" y="466.83588"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="라미란" label="라미란" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="14.0"/>
+          <attvalue for="closnesscentrality" value="0.129695885509839"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.1532182185630463"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="843.00574" y="572.60266"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="정상훈" label="정상훈" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2010"/>
+          <attvalue for="end year" value="2010"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="14.0"/>
+          <attvalue for="closnesscentrality" value="0.129695885509839"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.1532182185630463"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="905.4765" y="502.5554"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="강형철" label="강형철" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="13.0"/>
+          <attvalue for="closnesscentrality" value="0.16978922716627634"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.22314107348590084"/>
+          <attvalue for="betweenesscentrality" value="629.5983016983017"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="233.4344" y="603.3284"/>
+        <viz:color r="187" g="197" b="223"/>
+      </node>
+      <node id="신세경" label="신세경" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="14.0"/>
+          <attvalue for="closnesscentrality" value="0.14529058116232466"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.17443606202226902"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="270.43076" y="666.02625"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="이하늬" label="이하늬" start="2002.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.16978922716627634"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2082980046773151"/>
+          <attvalue for="betweenesscentrality" value="265.56068931068955"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="222.99179" y="701.5302"/>
+        <viz:color r="215" g="226" b="239"/>
+      </node>
+      <node id="탑" label="탑" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="14.0"/>
+          <attvalue for="closnesscentrality" value="0.14529058116232466"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.17443606202226902"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="179.91074" y="652.02527"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="김윤석" label="김윤석" start="2001.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2001"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.17220902612826602"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.21024381748519674"/>
+          <attvalue for="betweenesscentrality" value="359.71060606060604"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="92.64469" y="509.9653"/>
+        <viz:color r="208" g="219" b="235"/>
+      </node>
+      <node id="연상호" label="연상호" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="11.0"/>
+          <attvalue for="closnesscentrality" value="0.17427884615384615"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.22098895357516019"/>
+          <attvalue for="betweenesscentrality" value="1806.8919913419902"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="30.950897" y="-666.5273"/>
+        <viz:color r="134" g="85" b="162"/>
+      </node>
+      <node id="마동석" label="마동석" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.18261964735516373"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.22356073045728228"/>
+          <attvalue for="betweenesscentrality" value="1042.112193362193"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="76.66055" y="-507.5584"/>
+        <viz:color r="154" g="164" b="205"/>
+      </node>
+      <node id="정유미" label="정유미" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.14856557377049182"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.1737851420610042"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="88.45201" y="-713.0272"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="김수안" label="김수안" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.14856557377049182"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.1737851420610042"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="34.110806" y="-748.63416"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="심은경" label="심은경" start="2008.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2008"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.151673640167364"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.18849778573916512"/>
+          <attvalue for="betweenesscentrality" value="1350.0"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="150.01143" y="-938.0684"/>
+        <viz:color r="138" g="136" b="190"/>
+      </node>
+      <node id="윤종빈" label="윤종빈" start="2002.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="7"/>
+          <attvalue for="eccentricity" value="11.0"/>
+          <attvalue for="closnesscentrality" value="0.20538243626062322"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2685313728417178"/>
+          <attvalue for="betweenesscentrality" value="1734.1550255300267"/>
+        </attvalues>
+        <viz:size value="68.333336"/>
+        <viz:position x="93.95425" y="-318.0765"/>
+        <viz:color r="135" g="93" b="167"/>
+      </node>
+      <node id="조진웅" label="조진웅" start="2007.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2007"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.17857142857142858"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.22024381748519678"/>
+          <attvalue for="betweenesscentrality" value="134.42918192918188"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="-0.014965245" y="-413.46143"/>
+        <viz:color r="226" g="237" b="245"/>
+      </node>
+      <node id="윤지혜" label="윤지혜" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.17058823529411765"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.20186122306811966"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="153.34355" y="-396.29355"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="이일형" label="이일형" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="9.0"/>
+          <attvalue for="closnesscentrality" value="0.20893371757925072"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2577230432402848"/>
+          <attvalue for="betweenesscentrality" value="804.3711205461198"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="101.74356" y="6.9359326"/>
+        <viz:color r="173" g="183" b="216"/>
+      </node>
+      <node id="박성웅" label="박성웅" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.1730310262529833"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.19819102353585122"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="168.85063" y="47.76973"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="이성민" label="이성민" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.1730310262529833"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.19819102353585122"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="198.69763" y="11.634506"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="신소율" label="신소율" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.1730310262529833"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.19819102353585122"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="189.67557" y="-29.00065"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="이재규" label="이재규" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="11.0"/>
+          <attvalue for="closnesscentrality" value="0.1600441501103753"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.20112305319201845"/>
+          <attvalue for="betweenesscentrality" value="456.7099567099567"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="-759.4653" y="140.42627"/>
+        <viz:color r="200" g="211" b="231"/>
+      </node>
+      <node id="현빈" label="현빈" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.1380952380952381"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.16039707419017765"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-844.60205" y="131.71103"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="조정석" label="조정석" start="2004.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2004"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.17220902612826602"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.20704980842911888"/>
+          <attvalue for="betweenesscentrality" value="289.0909090909092"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="-664.36707" y="213.3077"/>
+        <viz:color r="214" g="224" b="238"/>
+      </node>
+      <node id="정재영" label="정재영" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.1380952380952381"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.16039707419017765"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-815.83795" y="203.11511"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="정은채" label="정은채" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.1380952380952381"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.16039707419017765"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-858.0535" y="167.22668"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="조범구" label="조범구" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="11.0"/>
+          <attvalue for="closnesscentrality" value="0.168997668997669"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.218847091605712"/>
+          <attvalue for="betweenesscentrality" value="610.8989649239651"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="-672.0152" y="-249.8069"/>
+        <viz:color r="188" g="199" b="224"/>
+      </node>
+      <node id="정우성" label="정우성" start="2007.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2007"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.18880208333333334"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.23335522714833073"/>
+          <attvalue for="betweenesscentrality" value="505.95848873348893"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="-529.8457" y="-222.58232"/>
+        <viz:color r="196" g="207" b="229"/>
+      </node>
+      <node id="안성기" label="안성기" start="2002.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.14948453608247422"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.18824351893317398"/>
+          <attvalue for="betweenesscentrality" value="142.2396825396825"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="-727.4484" y="-385.9652"/>
+        <viz:color r="225" g="236" b="244"/>
+      </node>
+      <node id="최진혁" label="최진혁" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.14471057884231536"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.17188062894959433"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-759.79236" y="-285.01035"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="이시영" label="이시영" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.14471057884231536"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.17188062894959433"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-765.31775" y="-238.8242"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="진모영" label="진모영" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="1.0"/>
+          <attvalue for="closnesscentrality" value="1.0"/>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"/>
+          <attvalue for="betweenesscentrality" value="1.0"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="4261.375" y="-625.7693"/>
+        <viz:color r="236" g="247" b="250"/>
+      </node>
+      <node id="조병만" label="조병만" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="2.0"/>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="4245.8247" y="-656.91144"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="강계열" label="강계열" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2009"/>
+          <attvalue for="end year" value="2009"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="2.0"/>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="4274.4243" y="-595.6133"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="윤제균" label="윤제균" start="2008.0" end="2008.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2008"/>
+          <attvalue for="end year" value="2008"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="11.0"/>
+          <attvalue for="closnesscentrality" value="0.21323529411764705"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2687037866348213"/>
+          <attvalue for="betweenesscentrality" value="985.596694971695"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="-21.19325" y="61.80526"/>
+        <viz:color r="158" g="169" b="208"/>
+      </node>
+      <node id="김윤진" label="김윤진" start="2008.0" end="2008.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2008"/>
+          <attvalue for="end year" value="2008"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.17597087378640777"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.20477036373588106"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-28.999989" y="142.46213"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="장영남" label="장영남" start="2008.0" end="2008.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2008"/>
+          <attvalue for="end year" value="2008"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.17597087378640777"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.20477036373588106"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-74.92625" y="106.887596"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="정진영" label="정진영" start="2008.0" end="2008.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2008"/>
+          <attvalue for="end year" value="2008"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.17597087378640777"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.20477036373588106"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="66.25265" y="97.651535"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="황동혁" label="황동혁" start="2008.0" end="2008.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2008"/>
+          <attvalue for="end year" value="2008"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="13.0"/>
+          <attvalue for="closnesscentrality" value="0.13401109057301294"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.17804255131841318"/>
+          <attvalue for="betweenesscentrality" value="1245.0"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="255.83142" y="-1183.1765"/>
+        <viz:color r="139" g="147" b="196"/>
+      </node>
+      <node id="나문희" label="나문희" start="2008.0" end="2008.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2008"/>
+          <attvalue for="end year" value="2008"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="14.0"/>
+          <attvalue for="closnesscentrality" value="0.11827079934747145"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.14286070251587493"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="293.3465" y="-1245.5607"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="이진욱" label="이진욱" start="2008.0" end="2008.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2008"/>
+          <attvalue for="end year" value="2008"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="14.0"/>
+          <attvalue for="closnesscentrality" value="0.11827079934747145"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.14286070251587493"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="209.73582" y="-1280.6376"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="진영" label="진영" start="2008.0" end="2008.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2008"/>
+          <attvalue for="end year" value="2008"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="14.0"/>
+          <attvalue for="closnesscentrality" value="0.11827079934747145"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.14286070251587493"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="341.9541" y="-1209.7843"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="성동일" label="성동일" start="2002.0" end="2008.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2008"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="14.0"/>
+          <attvalue for="closnesscentrality" value="0.11924342105263158"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.15435495538943814"/>
+          <attvalue for="betweenesscentrality" value="700.0"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="314.25946" y="-1355.0272"/>
+        <viz:color r="181" g="191" b="220"/>
+      </node>
+      <node id="김한민" label="김한민" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2007"/>
+          <attvalue for="end year" value="2007"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="11.0"/>
+          <attvalue for="closnesscentrality" value="0.19028871391076116"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2383699059561127"/>
+          <attvalue for="betweenesscentrality" value="661.3696275946274"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="-103.09005" y="-464.5631"/>
+        <viz:color r="184" g="195" b="222"/>
+      </node>
+      <node id="최민식" label="최민식" start="2002.0" end="2007.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2007"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.21449704142011836"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.25687465790914077"/>
+          <attvalue for="betweenesscentrality" value="831.5845765345763"/>
+        </attvalues>
+        <viz:size value="26.11111"/>
+        <viz:position x="-44.80559" y="-261.96225"/>
+        <viz:color r="171" g="181" b="214"/>
+      </node>
+      <node id="류승룡" label="류승룡" start="2001.0" end="2007.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2001"/>
+          <attvalue for="end year" value="2007"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.18880208333333334"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2437000547345376"/>
+          <attvalue for="betweenesscentrality" value="921.9962454212452"/>
+        </attvalues>
+        <viz:size value="36.666668"/>
+        <viz:position x="-300.1265" y="-559.7841"/>
+        <viz:color r="163" g="174" b="211"/>
+      </node>
+      <node id="박보검" label="박보검" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2007"/>
+          <attvalue for="end year" value="2007"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.1600441501103753"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.1854435985470469"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-116.7113" y="-552.22394"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="진구" label="진구" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2007"/>
+          <attvalue for="end year" value="2007"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.1600441501103753"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.1854435985470469"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-55.86551" y="-517.3249"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="박훈정" label="박훈정" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2007"/>
+          <attvalue for="end year" value="2007"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="eccentricity" value="9.0"/>
+          <attvalue for="closnesscentrality" value="0.2223926380368098"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.26580186097427494"/>
+          <attvalue for="betweenesscentrality" value="1255.7821844821842"/>
+        </attvalues>
+        <viz:size value="26.11111"/>
+        <viz:position x="-114.00956" y="31.214787"/>
+        <viz:color r="139" g="146" b="196"/>
+      </node>
+      <node id="이석훈" label="이석훈" start="2002.0" end="2007.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2007"/>
+          <attvalue for="degree" value="7"/>
+          <attvalue for="eccentricity" value="11.0"/>
+          <attvalue for="closnesscentrality" value="0.2059659090909091"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2725269940787186"/>
+          <attvalue for="betweenesscentrality" value="2376.6083749583754"/>
+        </attvalues>
+        <viz:size value="68.333336"/>
+        <viz:position x="408.30447" y="427.35648"/>
+        <viz:color r="129" g="22" b="128"/>
+      </node>
+      <node id="설리" label="설리" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2007"/>
+          <attvalue for="end year" value="2007"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.17099056603773585"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.20405334129472064"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="504.02008" y="427.98444"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="이경영" label="이경영" start="2006.0" end="2007.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2006"/>
+          <attvalue for="end year" value="2007"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.18494897959183673"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2253804050355775"/>
+          <attvalue for="betweenesscentrality" value="381.78917748917746"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="434.09506" y="252.18819"/>
+        <viz:color r="206" g="217" b="234"/>
+      </node>
+      <node id="설경구" label="설경구" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2007"/>
+          <attvalue for="end year" value="2007"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.18034825870646767"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2147427476737823"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-230.21605" y="-365.18192"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="한효주" label="한효주" start="2001.0" end="2007.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2001"/>
+          <attvalue for="end year" value="2007"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.18542199488491048"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.22922550629447186"/>
+          <attvalue for="betweenesscentrality" value="109.4492673992674"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="-405.94205" y="-364.81836"/>
+        <viz:color r="228" g="239" b="246"/>
+      </node>
+      <node id="진경" label="진경" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2007"/>
+          <attvalue for="end year" value="2007"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.18034825870646767"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2147427476737823"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-391.89105" y="-293.94162"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="이준호" label="이준호" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2007"/>
+          <attvalue for="end year" value="2007"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.18034825870646767"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2147427476737823"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-189.29616" y="-315.33636"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="김병우" label="김병우" start="2006.0" end="2006.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2006"/>
+          <attvalue for="end year" value="2006"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="eccentricity" value="9.0"/>
+          <attvalue for="closnesscentrality" value="0.18880208333333334"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2302271483305964"/>
+          <attvalue for="betweenesscentrality" value="577.7967698967691"/>
+        </attvalues>
+        <viz:size value="36.666668"/>
+        <viz:position x="406.8434" y="69.66243"/>
+        <viz:color r="191" g="201" b="225"/>
+      </node>
+      <node id="전혜진" label="전혜진" start="2006.0" end="2006.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2006"/>
+          <attvalue for="end year" value="2006"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.15899122807017543"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.181576354679803"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="500.8054" y="99.477"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="이다윗" label="이다윗" start="2006.0" end="2006.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2006"/>
+          <attvalue for="end year" value="2006"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.15899122807017543"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.181576354679803"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="498.5621" y="34.43894"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="허정" label="허정" start="2006.0" end="2006.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2006"/>
+          <attvalue for="end year" value="2006"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="eccentricity" value="13.0"/>
+          <attvalue for="closnesscentrality" value="0.14299802761341224"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.1767535529604493"/>
+          <attvalue for="betweenesscentrality" value="972.0"/>
+        </attvalues>
+        <viz:size value="26.11111"/>
+        <viz:position x="405.84302" y="1272.0657"/>
+        <viz:color r="159" g="170" b="208"/>
+      </node>
+      <node id="손현주" label="손현주" start="2005.0" end="2006.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2005"/>
+          <attvalue for="end year" value="2006"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="14.0"/>
+          <attvalue for="closnesscentrality" value="0.12630662020905922"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.15705510964131658"/>
+          <attvalue for="betweenesscentrality" value="700.0"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="480.08063" y="1426.7073"/>
+        <viz:color r="181" g="191" b="220"/>
+      </node>
+      <node id="문정희" label="문정희" start="2002.0" end="2006.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2006"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.16402714932126697"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.19911902273971235"/>
+          <attvalue for="betweenesscentrality" value="1096.0"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="316.65778" y="1058.3707"/>
+        <viz:color r="150" g="160" b="203"/>
+      </node>
+      <node id="전미선" label="전미선" start="2006.0" end="2006.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2006"/>
+          <attvalue for="end year" value="2006"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="14.0"/>
+          <attvalue for="closnesscentrality" value="0.12521588946459414"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.14556085676775338"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="417.77142" y="1319.2972"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="류승완" label="류승완" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2005"/>
+          <attvalue for="end year" value="2005"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="eccentricity" value="11.0"/>
+          <attvalue for="closnesscentrality" value="0.18125"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.22357516047171197"/>
+          <attvalue for="betweenesscentrality" value="454.11661671661705"/>
+        </attvalues>
+        <viz:size value="36.666668"/>
+        <viz:position x="231.75893" y="120.305664"/>
+        <viz:color r="200" g="211" b="231"/>
+      </node>
+      <node id="한석규" label="한석규" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2005"/>
+          <attvalue for="end year" value="2005"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.15360169491525424"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.17691322087873806"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="326.8992" y="155.74837"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="류승범" label="류승범" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2005"/>
+          <attvalue for="end year" value="2005"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.15360169491525424"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.17691322087873806"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="324.81125" y="106.31892"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="전지현" label="전지현" start="2001.0" end="2005.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2001"/>
+          <attvalue for="end year" value="2005"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.17597087378640777"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.21008757525998917"/>
+          <attvalue for="betweenesscentrality" value="211.83328338328332"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="143.77016" y="261.86316"/>
+        <viz:color r="220" g="231" b="241"/>
+      </node>
+      <node id="양우석" label="양우석" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2005"/>
+          <attvalue for="end year" value="2005"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="9.0"/>
+          <attvalue for="closnesscentrality" value="0.22870662460567823"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2795758073344282"/>
+          <attvalue for="betweenesscentrality" value="2152.0744449994427"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="-163.14505" y="257.77518"/>
+        <viz:color r="131" g="47" b="141"/>
+      </node>
+      <node id="임시완" label="임시완" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2005"/>
+          <attvalue for="end year" value="2005"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.18637532133676094"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.21194854953475645"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-206.32336" y="318.81757"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="장철수" label="장철수" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2005"/>
+          <attvalue for="end year" value="2005"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="15.0"/>
+          <attvalue for="closnesscentrality" value="0.11292834890965732"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.15004110831697026"/>
+          <attvalue for="betweenesscentrality" value="570.0"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="540.5438" y="1558.5748"/>
+        <viz:color r="191" g="202" b="226" a="0.99607843"/>
+      </node>
+      <node id="김수현" label="김수현" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2005"/>
+          <attvalue for="end year" value="2005"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="16.0"/>
+          <attvalue for="closnesscentrality" value="0.1015406162464986"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.12239670291394415"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="574.3363" y="1636.3997"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="박기웅" label="박기웅" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2005"/>
+          <attvalue for="end year" value="2005"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="16.0"/>
+          <attvalue for="closnesscentrality" value="0.1015406162464986"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.12239670291394415"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="653.0395" y="1565.3289"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="이현우" label="이현우" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2005"/>
+          <attvalue for="end year" value="2005"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="16.0"/>
+          <attvalue for="closnesscentrality" value="0.1015406162464986"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.12239670291394415"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="508.7815" y="1670.8094"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="신정근" label="신정근" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2005"/>
+          <attvalue for="end year" value="2005"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="16.0"/>
+          <attvalue for="closnesscentrality" value="0.1015406162464986"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.12239670291394415"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="614.9896" y="1601.1547"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="봉준호" label="봉준호" start="2004.0" end="2004.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2004"/>
+          <attvalue for="end year" value="2004"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="9.0"/>
+          <attvalue for="closnesscentrality" value="0.17769607843137256"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.22093048713738342"/>
+          <attvalue for="betweenesscentrality" value="570.0"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="-557.87585" y="414.08264"/>
+        <viz:color r="191" g="202" b="226" a="0.99607843"/>
+      </node>
+      <node id="크리스에반스" label="크리스에반스" start="2004.0" end="2004.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2004"/>
+          <attvalue for="end year" value="2004"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.15104166666666666"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.17408319649698958"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-708.4281" y="441.25632"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="에드해리스" label="에드해리스" start="2004.0" end="2004.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2004"/>
+          <attvalue for="end year" value="2004"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.15104166666666666"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.17408319649698958"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-550.6441" y="546.4752"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="존허트" label="존허트" start="2004.0" end="2004.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2004"/>
+          <attvalue for="end year" value="2004"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.15104166666666666"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.17408319649698958"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-605.964" y="510.92084"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="틸다스윈튼" label="틸다스윈튼" start="2004.0" end="2004.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2004"/>
+          <attvalue for="end year" value="2004"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.15104166666666666"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.17408319649698958"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-641.7596" y="476.10608"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="한재림" label="한재림" start="2004.0" end="2004.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2004"/>
+          <attvalue for="end year" value="2004"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="9.0"/>
+          <attvalue for="closnesscentrality" value="0.20480225988700565"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.25401204159824864"/>
+          <attvalue for="betweenesscentrality" value="1055.4836913086924"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="-519.969" y="249.74814"/>
+        <viz:color r="153" g="163" b="205"/>
+      </node>
+      <node id="백윤식" label="백윤식" start="2004.0" end="2004.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2004"/>
+          <attvalue for="end year" value="2004"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.17018779342723006"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.19555555555555565"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-605.4034" y="284.89136"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="이종석" label="이종석" start="2004.0" end="2004.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2004"/>
+          <attvalue for="end year" value="2004"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="10.0"/>
+          <attvalue for="closnesscentrality" value="0.17018779342723006"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.19555555555555565"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-563.73175" y="319.9593"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="이환경" label="이환경" start="2003.0" end="2003.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2003"/>
+          <attvalue for="end year" value="2003"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="11.0"/>
+          <attvalue for="closnesscentrality" value="0.20027624309392264"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.25860526446733334"/>
+          <attvalue for="betweenesscentrality" value="1240.7004273504272"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="-319.56204" y="-435.89334"/>
+        <viz:color r="139" g="148" b="196"/>
+      </node>
+      <node id="박신혜" label="박신혜" start="2003.0" end="2003.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2003"/>
+          <attvalue for="end year" value="2003"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.16705069124423963"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.1976275065930239"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-330.02567" y="-518.20917"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="갈소원" label="갈소원" start="2003.0" end="2003.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2003"/>
+          <attvalue for="end year" value="2003"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.16705069124423963"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.1976275065930239"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-378.4455" y="-483.20923"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="박원상" label="박원상" start="2002.0" end="2003.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2003"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.17220902612826602"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.21302159526297462"/>
+          <attvalue for="betweenesscentrality" value="491.526984126984"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="-581.09607" y="-466.89737"/>
+        <viz:color r="198" g="208" b="229"/>
+      </node>
+      <node id="김주호" label="김주호" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="15.0"/>
+          <attvalue for="closnesscentrality" value="0.10724852071005918"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.14694745867159653"/>
+          <attvalue for="betweenesscentrality" value="570.0"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="355.30246" y="-1496.4647"/>
+        <viz:color r="191" g="202" b="226" a="0.99607843"/>
+      </node>
+      <node id="차태현" label="차태현" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="16.0"/>
+          <attvalue for="closnesscentrality" value="0.09692513368983957"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.11949383949383942"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="366.39047" y="-1602.0533"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="오지호" label="오지호" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="16.0"/>
+          <attvalue for="closnesscentrality" value="0.09692513368983957"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.11949383949383942"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="450.6367" y="-1531.1307"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="민효린" label="민효린" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="16.0"/>
+          <attvalue for="closnesscentrality" value="0.09692513368983957"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.11949383949383942"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="309.77078" y="-1565.3978"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="고창석" label="고창석" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="16.0"/>
+          <attvalue for="closnesscentrality" value="0.09692513368983957"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.11949383949383942"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="401.3767" y="-1566.2842"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="민규동" label="민규동" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="eccentricity" value="11.0"/>
+          <attvalue for="closnesscentrality" value="0.1600441501103753"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.20194780315469948"/>
+          <attvalue for="betweenesscentrality" value="429.0"/>
+        </attvalues>
+        <viz:size value="36.666668"/>
+        <viz:position x="-348.4412" y="-742.1526"/>
+        <viz:color r="202" g="213" b="232"/>
+      </node>
+      <node id="임수정" label="임수정" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.1380952380952381"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.1618012638702292"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-305.191" y="-796.835"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="이선균" label="이선균" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.1380952380952381"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.1618012638702292"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-380.29895" y="-832.3933"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="김선일" label="김선일" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.1380952380952381"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.1618012638702292"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-406.88492" y="-777.20325"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="김명민" label="김명민" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.16111111111111112"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.18785465492362044"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="172.62431" y="890.7498"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="김동완" label="김동완" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.16111111111111112"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.18785465492362044"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="220.81577" y="927.5152"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="신수정" label="신수정" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.17058823529411765"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.20186122306811968"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="185.46013" y="-360.88422"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="엄정화" label="엄정화" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.17099056603773585"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.20405334129472064"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="494.53824" y="473.41815"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="이용주" label="이용주" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="eccentricity" value="1.0"/>
+          <attvalue for="closnesscentrality" value="1.0"/>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"/>
+          <attvalue for="betweenesscentrality" value="6.0"/>
+        </attvalues>
+        <viz:size value="36.666668"/>
+        <viz:position x="2535.9578" y="-4190.4346"/>
+        <viz:color r="236" g="247" b="250"/>
+      </node>
+      <node id="엄태웅" label="엄태웅" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="2.0"/>
+          <attvalue for="closnesscentrality" value="0.5714285714285714"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.625"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="2501.4893" y="-4238.788"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="한가인" label="한가인" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="2.0"/>
+          <attvalue for="closnesscentrality" value="0.5714285714285714"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.625"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="2541.9211" y="-4131.3677"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="이제훈" label="이제훈" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="2.0"/>
+          <attvalue for="closnesscentrality" value="0.5714285714285714"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.625"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="2478.3413" y="-4174.8896"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="배수지" label="배수지" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="2.0"/>
+          <attvalue for="closnesscentrality" value="0.5714285714285714"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.625"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="2593.366" y="-4205.761"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="정지영" label="정지영" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="13.0"/>
+          <attvalue for="closnesscentrality" value="0.15263157894736842"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.19836921698990645"/>
+          <attvalue for="betweenesscentrality" value="489.3309523809525"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="-723.47864" y="-503.74796"/>
+        <viz:color r="198" g="208" b="229"/>
+      </node>
+      <node id="나영희" label="나영희" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="14.0"/>
+          <attvalue for="closnesscentrality" value="0.13254113345521024"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.15799131902580177"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-754.2781" y="-591.3955"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="김지호" label="김지호" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="14.0"/>
+          <attvalue for="closnesscentrality" value="0.13254113345521024"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.15799131902580177"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-792.7556" y="-555.74725"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="신종훈" label="신종훈" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="14.0"/>
+          <attvalue for="closnesscentrality" value="0.13254113345521024"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.15799131902580177"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-824.1297" y="-520.00055"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="조성희" label="조성희" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="eccentricity" value="1.0"/>
+          <attvalue for="closnesscentrality" value="1.0"/>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"/>
+          <attvalue for="betweenesscentrality" value="1.0"/>
+        </attvalues>
+        <viz:size value="15.555555"/>
+        <viz:position x="-5066.976" y="833.61273"/>
+        <viz:color r="236" g="247" b="250"/>
+      </node>
+      <node id="송중기" label="송중기" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="2.0"/>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-5058.963" y="800.0337"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="박보영" label="박보영" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2002"/>
+          <attvalue for="end year" value="2002"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="2.0"/>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-5059.1484" y="867.1893"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="최동훈" label="최동훈" start="2001.0" end="2001.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2001"/>
+          <attvalue for="end year" value="2001"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="11.0"/>
+          <attvalue for="closnesscentrality" value="0.18880208333333334"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.23701248942628228"/>
+          <attvalue for="betweenesscentrality" value="782.2458541458548"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="-53.242764" y="389.89325"/>
+        <viz:color r="174" g="185" b="217"/>
+      </node>
+      <node id="김혜수" label="김혜수" start="2001.0" end="2001.0">
+        <attvalues>
+          <attvalue for="gender" value="F"/>
+          <attvalue for="start year" value="2001"/>
+          <attvalue for="end year" value="2001"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.15899122807017543"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.1845240583171617"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-52.900322" y="476.2359"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="임달화" label="임달화" start="2001.0" end="2001.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2001"/>
+          <attvalue for="end year" value="2001"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.15899122807017543"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.1845240583171617"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-108.57365" y="441.13412"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="추창민" label="추창민" start="2001.0" end="2001.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2001"/>
+          <attvalue for="end year" value="2001"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="eccentricity" value="11.0"/>
+          <attvalue for="closnesscentrality" value="0.17945544554455445"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.23293750310991657"/>
+          <attvalue for="betweenesscentrality" value="518.5117826617828"/>
+        </attvalues>
+        <viz:size value="47.22222"/>
+        <viz:position x="-451.3263" y="-441.4892"/>
+        <viz:color r="195" g="206" b="228"/>
+      </node>
+      <node id="장광" label="장광" start="2001.0" end="2001.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2001"/>
+          <attvalue for="end year" value="2001"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.15231092436974789"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.18101831119072492"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-454.8917" y="-536.9704"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="김인권" label="김인권" start="2001.0" end="2001.0">
+        <attvalues>
+          <attvalue for="gender" value="M"/>
+          <attvalue for="start year" value="2001"/>
+          <attvalue for="end year" value="2001"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="eccentricity" value="12.0"/>
+          <attvalue for="closnesscentrality" value="0.15231092436974789"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.18101831119072492"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-499.7995" y="-501.9198"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="박정우" target="김남길" start="2011.0" end="2011.0">
+        <attvalues>
+          <attvalue for="year" value="2011"/>
+        </attvalues>
+      </edge>
+      <edge id="1" source="박정우" target="여지" start="2011.0" end="2011.0">
+        <attvalues>
+          <attvalue for="year" value="2011"/>
+        </attvalues>
+      </edge>
+      <edge id="2" source="박정우" target="김영애" start="2011.0" end="2011.0">
+        <attvalues>
+          <attvalue for="year" value="2011"/>
+        </attvalues>
+      </edge>
+      <edge id="3" source="조의석" target="김우빈" start="2011.0" end="2011.0">
+        <attvalues>
+          <attvalue for="year" value="2011"/>
+        </attvalues>
+      </edge>
+      <edge id="4" source="조의석" target="강동원" start="2011.0" end="2011.0">
+        <attvalues>
+          <attvalue for="year" value="2011"/>
+        </attvalues>
+      </edge>
+      <edge id="5" source="조의석" target="이병헌" start="2011.0" end="2011.0">
+        <attvalues>
+          <attvalue for="year" value="2011"/>
+        </attvalues>
+      </edge>
+      <edge id="6" source="조의석" target="엄지원" start="2011.0" end="2011.0">
+        <attvalues>
+          <attvalue for="year" value="2011"/>
+        </attvalues>
+      </edge>
+      <edge id="7" source="조의석" target="오달수" start="2011.0" end="2011.0">
+        <attvalues>
+          <attvalue for="year" value="2011"/>
+        </attvalues>
+      </edge>
+      <edge id="8" source="김성훈" target="하정우" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="9" source="김성훈" target="배두나" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="10" source="김성훈" target="오달수" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="11" source="김성훈" target="남지현" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="12" source="김성훈" target="조현철" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="13" source="김지운" target="공유" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="14" source="김지운" target="송강호" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="15" source="김지운" target="한지민" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="16" source="김지운" target="이병헌" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="17" source="김지운" target="엄태구" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="18" source="나홍진" target="황정민" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="19" source="나홍진" target="천우희" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="20" source="나홍진" target="곽도원" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="21" source="나홍진" target="쿠니무라준" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="22" source="나홍진" target="장소연" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="23" source="이계벽" target="유해진" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="24" source="이계벽" target="이준" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="25" source="이계벽" target="조윤희" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="26" source="이계벽" target="이동휘" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="27" source="이계벽" target="전혜빈" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="28" source="이재한" target="리암니슨" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="29" source="이재한" target="이정재" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="30" source="이재한" target="이범수" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="31" source="이재한" target="진세연" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="32" source="이재한" target="정준호" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="33" source="허진호" target="손예진" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="34" source="허진호" target="박해일" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="35" source="허진호" target="김소현" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="36" source="허진호" target="라미란" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="37" source="허진호" target="정상훈" start="2010.0" end="2010.0">
+        <attvalues>
+          <attvalue for="year" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="38" source="강형철" target="신세경" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="39" source="강형철" target="이하늬" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="40" source="강형철" target="탑" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="41" source="강형철" target="유해진" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="42" source="강형철" target="김윤석" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="43" source="연상호" target="공유" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="44" source="연상호" target="마동석" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="45" source="연상호" target="정유미" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="46" source="연상호" target="김수안" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="47" source="연상호" target="심은경" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="48" source="윤종빈" target="강동원" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="49" source="윤종빈" target="조진웅" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="50" source="윤종빈" target="마동석" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="51" source="윤종빈" target="윤지혜" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="52" source="이일형" target="강동원" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="53" source="이일형" target="황정민" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="54" source="이일형" target="박성웅" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="55" source="이일형" target="이성민" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="56" source="이일형" target="신소율" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="57" source="이재규" target="현빈" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="58" source="이재규" target="한지민" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="59" source="이재규" target="조정석" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="60" source="이재규" target="정재영" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="61" source="이재규" target="정은채" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="62" source="조범구" target="정우성" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="63" source="조범구" target="이범수" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="64" source="조범구" target="안성기" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="65" source="조범구" target="최진혁" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="66" source="조범구" target="이시영" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="67" source="진모영" target="조병만" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="68" source="진모영" target="강계열" start="2009.0" end="2009.0">
+        <attvalues>
+          <attvalue for="year" value="2009"/>
+        </attvalues>
+      </edge>
+      <edge id="69" source="윤제균" target="황정민" start="2008.0" end="2008.0">
+        <attvalues>
+          <attvalue for="year" value="2008"/>
+        </attvalues>
+      </edge>
+      <edge id="70" source="윤제균" target="김윤진" start="2008.0" end="2008.0">
+        <attvalues>
+          <attvalue for="year" value="2008"/>
+        </attvalues>
+      </edge>
+      <edge id="71" source="윤제균" target="오달수" start="2008.0" end="2008.0">
+        <attvalues>
+          <attvalue for="year" value="2008"/>
+        </attvalues>
+      </edge>
+      <edge id="72" source="윤제균" target="장영남" start="2008.0" end="2008.0">
+        <attvalues>
+          <attvalue for="year" value="2008"/>
+        </attvalues>
+      </edge>
+      <edge id="73" source="윤제균" target="정진영" start="2008.0" end="2008.0">
+        <attvalues>
+          <attvalue for="year" value="2008"/>
+        </attvalues>
+      </edge>
+      <edge id="74" source="황동혁" target="심은경" start="2008.0" end="2008.0">
+        <attvalues>
+          <attvalue for="year" value="2008"/>
+        </attvalues>
+      </edge>
+      <edge id="75" source="황동혁" target="나문희" start="2008.0" end="2008.0">
+        <attvalues>
+          <attvalue for="year" value="2008"/>
+        </attvalues>
+      </edge>
+      <edge id="76" source="황동혁" target="이진욱" start="2008.0" end="2008.0">
+        <attvalues>
+          <attvalue for="year" value="2008"/>
+        </attvalues>
+      </edge>
+      <edge id="77" source="황동혁" target="진영" start="2008.0" end="2008.0">
+        <attvalues>
+          <attvalue for="year" value="2008"/>
+        </attvalues>
+      </edge>
+      <edge id="78" source="황동혁" target="성동일" start="2008.0" end="2008.0">
+        <attvalues>
+          <attvalue for="year" value="2008"/>
+        </attvalues>
+      </edge>
+      <edge id="79" source="김한민" target="최민식" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="year" value="2007"/>
+        </attvalues>
+      </edge>
+      <edge id="80" source="김한민" target="류승룡" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="year" value="2007"/>
+        </attvalues>
+      </edge>
+      <edge id="81" source="김한민" target="조진웅" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="year" value="2007"/>
+        </attvalues>
+      </edge>
+      <edge id="82" source="김한민" target="박보검" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="year" value="2007"/>
+        </attvalues>
+      </edge>
+      <edge id="83" source="김한민" target="진구" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="year" value="2007"/>
+        </attvalues>
+      </edge>
+      <edge id="84" source="박훈정" target="이정재" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="year" value="2007"/>
+        </attvalues>
+      </edge>
+      <edge id="85" source="박훈정" target="최민식" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="year" value="2007"/>
+        </attvalues>
+      </edge>
+      <edge id="86" source="박훈정" target="황정민" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="year" value="2007"/>
+        </attvalues>
+      </edge>
+      <edge id="87" source="이석훈" target="손예진" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="year" value="2007"/>
+        </attvalues>
+      </edge>
+      <edge id="88" source="이석훈" target="김남길" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="year" value="2007"/>
+        </attvalues>
+      </edge>
+      <edge id="89" source="이석훈" target="유해진" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="year" value="2007"/>
+        </attvalues>
+      </edge>
+      <edge id="90" source="이석훈" target="설리" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="year" value="2007"/>
+        </attvalues>
+      </edge>
+      <edge id="91" source="이석훈" target="이경영" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="year" value="2007"/>
+        </attvalues>
+      </edge>
+      <edge id="92" source="조의석" target="설경구" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="year" value="2007"/>
+        </attvalues>
+      </edge>
+      <edge id="93" source="조의석" target="정우성" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="year" value="2007"/>
+        </attvalues>
+      </edge>
+      <edge id="94" source="조의석" target="한효주" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="year" value="2007"/>
+        </attvalues>
+      </edge>
+      <edge id="95" source="조의석" target="진경" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="year" value="2007"/>
+        </attvalues>
+      </edge>
+      <edge id="96" source="조의석" target="이준호" start="2007.0" end="2007.0">
+        <attvalues>
+          <attvalue for="year" value="2007"/>
+        </attvalues>
+      </edge>
+      <edge id="97" source="김병우" target="하정우" start="2006.0" end="2006.0">
+        <attvalues>
+          <attvalue for="year" value="2006"/>
+        </attvalues>
+      </edge>
+      <edge id="98" source="김병우" target="이경영" start="2006.0" end="2006.0">
+        <attvalues>
+          <attvalue for="year" value="2006"/>
+        </attvalues>
+      </edge>
+      <edge id="99" source="김병우" target="전혜진" start="2006.0" end="2006.0">
+        <attvalues>
+          <attvalue for="year" value="2006"/>
+        </attvalues>
+      </edge>
+      <edge id="100" source="김병우" target="이다윗" start="2006.0" end="2006.0">
+        <attvalues>
+          <attvalue for="year" value="2006"/>
+        </attvalues>
+      </edge>
+      <edge id="101" source="허정" target="손현주" start="2006.0" end="2006.0">
+        <attvalues>
+          <attvalue for="year" value="2006"/>
+        </attvalues>
+      </edge>
+      <edge id="102" source="허정" target="문정희" start="2006.0" end="2006.0">
+        <attvalues>
+          <attvalue for="year" value="2006"/>
+        </attvalues>
+      </edge>
+      <edge id="103" source="허정" target="전미선" start="2006.0" end="2006.0">
+        <attvalues>
+          <attvalue for="year" value="2006"/>
+        </attvalues>
+      </edge>
+      <edge id="104" source="류승완" target="하정우" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="year" value="2005"/>
+        </attvalues>
+      </edge>
+      <edge id="105" source="류승완" target="한석규" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="year" value="2005"/>
+        </attvalues>
+      </edge>
+      <edge id="106" source="류승완" target="류승범" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="year" value="2005"/>
+        </attvalues>
+      </edge>
+      <edge id="107" source="류승완" target="전지현" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="year" value="2005"/>
+        </attvalues>
+      </edge>
+      <edge id="108" source="양우석" target="송강호" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="year" value="2005"/>
+        </attvalues>
+      </edge>
+      <edge id="109" source="양우석" target="김영애" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="year" value="2005"/>
+        </attvalues>
+      </edge>
+      <edge id="110" source="양우석" target="오달수" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="year" value="2005"/>
+        </attvalues>
+      </edge>
+      <edge id="111" source="양우석" target="곽도원" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="year" value="2005"/>
+        </attvalues>
+      </edge>
+      <edge id="112" source="양우석" target="임시완" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="year" value="2005"/>
+        </attvalues>
+      </edge>
+      <edge id="113" source="장철수" target="김수현" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="year" value="2005"/>
+        </attvalues>
+      </edge>
+      <edge id="114" source="장철수" target="박기웅" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="year" value="2005"/>
+        </attvalues>
+      </edge>
+      <edge id="115" source="장철수" target="이현우" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="year" value="2005"/>
+        </attvalues>
+      </edge>
+      <edge id="116" source="장철수" target="손현주" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="year" value="2005"/>
+        </attvalues>
+      </edge>
+      <edge id="117" source="장철수" target="신정근" start="2005.0" end="2005.0">
+        <attvalues>
+          <attvalue for="year" value="2005"/>
+        </attvalues>
+      </edge>
+      <edge id="118" source="봉준호" target="크리스에반스" start="2004.0" end="2004.0">
+        <attvalues>
+          <attvalue for="year" value="2004"/>
+        </attvalues>
+      </edge>
+      <edge id="119" source="봉준호" target="송강호" start="2004.0" end="2004.0">
+        <attvalues>
+          <attvalue for="year" value="2004"/>
+        </attvalues>
+      </edge>
+      <edge id="120" source="봉준호" target="에드해리스" start="2004.0" end="2004.0">
+        <attvalues>
+          <attvalue for="year" value="2004"/>
+        </attvalues>
+      </edge>
+      <edge id="121" source="봉준호" target="존허트" start="2004.0" end="2004.0">
+        <attvalues>
+          <attvalue for="year" value="2004"/>
+        </attvalues>
+      </edge>
+      <edge id="122" source="봉준호" target="틸다스윈튼" start="2004.0" end="2004.0">
+        <attvalues>
+          <attvalue for="year" value="2004"/>
+        </attvalues>
+      </edge>
+      <edge id="123" source="한재림" target="송강호" start="2004.0" end="2004.0">
+        <attvalues>
+          <attvalue for="year" value="2004"/>
+        </attvalues>
+      </edge>
+      <edge id="124" source="한재림" target="이정재" start="2004.0" end="2004.0">
+        <attvalues>
+          <attvalue for="year" value="2004"/>
+        </attvalues>
+      </edge>
+      <edge id="125" source="한재림" target="백윤식" start="2004.0" end="2004.0">
+        <attvalues>
+          <attvalue for="year" value="2004"/>
+        </attvalues>
+      </edge>
+      <edge id="126" source="한재림" target="조정석" start="2004.0" end="2004.0">
+        <attvalues>
+          <attvalue for="year" value="2004"/>
+        </attvalues>
+      </edge>
+      <edge id="127" source="한재림" target="이종석" start="2004.0" end="2004.0">
+        <attvalues>
+          <attvalue for="year" value="2004"/>
+        </attvalues>
+      </edge>
+      <edge id="128" source="이환경" target="류승룡" start="2003.0" end="2003.0">
+        <attvalues>
+          <attvalue for="year" value="2003"/>
+        </attvalues>
+      </edge>
+      <edge id="129" source="이환경" target="박신혜" start="2003.0" end="2003.0">
+        <attvalues>
+          <attvalue for="year" value="2003"/>
+        </attvalues>
+      </edge>
+      <edge id="130" source="이환경" target="갈소원" start="2003.0" end="2003.0">
+        <attvalues>
+          <attvalue for="year" value="2003"/>
+        </attvalues>
+      </edge>
+      <edge id="131" source="이환경" target="오달수" start="2003.0" end="2003.0">
+        <attvalues>
+          <attvalue for="year" value="2003"/>
+        </attvalues>
+      </edge>
+      <edge id="132" source="이환경" target="박원상" start="2003.0" end="2003.0">
+        <attvalues>
+          <attvalue for="year" value="2003"/>
+        </attvalues>
+      </edge>
+      <edge id="133" source="김주호" target="차태현" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="134" source="김주호" target="오지호" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="135" source="김주호" target="민효린" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="136" source="김주호" target="성동일" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="137" source="김주호" target="고창석" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="138" source="민규동" target="임수정" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="139" source="민규동" target="이선균" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="140" source="민규동" target="류승룡" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="141" source="민규동" target="김선일" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="142" source="박정우" target="김명민" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="143" source="박정우" target="문정희" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="144" source="박정우" target="김동완" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="145" source="박정우" target="이하늬" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="146" source="윤종빈" target="최민식" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="147" source="윤종빈" target="하정우" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="148" source="윤종빈" target="신수정" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="149" source="이석훈" target="황정민" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="150" source="이석훈" target="엄정화" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="151" source="이용주" target="엄태웅" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="152" source="이용주" target="한가인" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="153" source="이용주" target="이제훈" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="154" source="이용주" target="배수지" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="155" source="정지영" target="안성기" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="156" source="정지영" target="박원상" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="157" source="정지영" target="나영희" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="158" source="정지영" target="김지호" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="159" source="정지영" target="신종훈" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="160" source="조성희" target="송중기" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="161" source="조성희" target="박보영" start="2002.0" end="2002.0">
+        <attvalues>
+          <attvalue for="year" value="2002"/>
+        </attvalues>
+      </edge>
+      <edge id="162" source="최동훈" target="김윤석" start="2001.0" end="2001.0">
+        <attvalues>
+          <attvalue for="year" value="2001"/>
+        </attvalues>
+      </edge>
+      <edge id="163" source="최동훈" target="김혜수" start="2001.0" end="2001.0">
+        <attvalues>
+          <attvalue for="year" value="2001"/>
+        </attvalues>
+      </edge>
+      <edge id="164" source="최동훈" target="이정재" start="2001.0" end="2001.0">
+        <attvalues>
+          <attvalue for="year" value="2001"/>
+        </attvalues>
+      </edge>
+      <edge id="165" source="최동훈" target="전지현" start="2001.0" end="2001.0">
+        <attvalues>
+          <attvalue for="year" value="2001"/>
+        </attvalues>
+      </edge>
+      <edge id="166" source="최동훈" target="임달화" start="2001.0" end="2001.0">
+        <attvalues>
+          <attvalue for="year" value="2001"/>
+        </attvalues>
+      </edge>
+      <edge id="167" source="추창민" target="이병헌" start="2001.0" end="2001.0">
+        <attvalues>
+          <attvalue for="year" value="2001"/>
+        </attvalues>
+      </edge>
+      <edge id="168" source="추창민" target="류승룡" start="2001.0" end="2001.0">
+        <attvalues>
+          <attvalue for="year" value="2001"/>
+        </attvalues>
+      </edge>
+      <edge id="169" source="추창민" target="한효주" start="2001.0" end="2001.0">
+        <attvalues>
+          <attvalue for="year" value="2001"/>
+        </attvalues>
+      </edge>
+      <edge id="170" source="추창민" target="장광" start="2001.0" end="2001.0">
+        <attvalues>
+          <attvalue for="year" value="2001"/>
+        </attvalues>
+      </edge>
+      <edge id="171" source="추창민" target="김인권" start="2001.0" end="2001.0">
+        <attvalues>
+          <attvalue for="year" value="2001"/>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
